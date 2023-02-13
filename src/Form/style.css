@@ -52,12 +52,3 @@
 .form__button:hover {
     background-color: #d25431;
 }
-
-.form__result {
-    max-width: 500px;
-    width: 100%;
-    text-align: center;
-    color: #000;
-    font-size: 40px;
-    margin: 5px;
-}
