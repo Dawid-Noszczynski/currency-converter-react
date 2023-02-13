@@ -4,7 +4,7 @@ import currencies from "../Currencies";
 import Result from "../Result";
 
 
-const Form = ({result, calculateResult}) => {
+const Form = ({ result, calculateResult }) => {
     const [currency, setCurrency] = useState(currencies[0].name);
     const [amount, setAmount] = useState("");
 
@@ -55,7 +55,7 @@ const Form = ({result, calculateResult}) => {
                     <button className="form__button">{"calculate".toUpperCase()}</button>
                 </p>
                 <p className="form__labelText form__labelText--result">Result:</p>
-                <Result result={result}/>
+                <Result result={result} />
             </fieldset>
         </form>
     );
