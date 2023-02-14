@@ -1,7 +1,7 @@
 # Simple Currency Converter
 
 ## Demo
-[Demo - click here](https://dawid-noszczynski.github.io/currency-calculator/)
+[Demo - click here](https://dawid-noszczynski.github.io/currency-converter-react/)
 
 ![Demo Gif](https://drive.google.com/uc?export=download&id=1xvvec7IEqN3GivyaHpZ277p0YU2O60yt)
 
@@ -24,7 +24,7 @@ I built it as part of my frontend developer course.
 
 ## User manual: 
 
-1.  Enter an amount in PLN
+1. Enter an amount in PLN
 2. Choose desired currency
 3. Click the button below
 
